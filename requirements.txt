@@ -115,7 +115,7 @@ passlib==1.7.4
     # via -r requirements.in
 pillow==10.1.0
     # via -r requirements.in
-pybluemonday==0.0.12
+#pybluemonday==0.0.12
     # via -r requirements.in
 pycparser==2.20
     # via cffi
@@ -164,7 +164,7 @@ sqlalchemy-utils==0.41.1
     # via -r requirements.in
 tenacity==6.2.0
     # via -r requirements.in
-urllib3==1.25.11
+urllib3==1.26.7
     # via
     #   botocore
     #   requests
